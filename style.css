@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     color: white;
+    font: sans-serif;
 }
 
 body {
@@ -21,12 +22,14 @@ header {
     color: white;
     padding: 1rem;
     text-align: center;
+    width: 100%;
 }
 /* Navbar styles */
 .navbar {
     background-color: #ffffff;
     color: black;
     padding: 0.5rem;
+    margin-top: 20px;
 }
 
 .navbar ul {
@@ -77,7 +80,7 @@ footer {
     justify-content: center;
     flex-wrap: wrap;
     gap: 25px;
-    margin-top: 100px;
+    margin-top: 10px;
 }
 
 .card {
