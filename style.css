@@ -74,6 +74,12 @@ section {
     margin-bottom: 2rem;
 }
 
+.headshot-image {
+    width: 50%;
+    border-radius: 5px;
+    border-color: black;
+}
+
 footer {
     background: #000000;
     padding: 20px;
