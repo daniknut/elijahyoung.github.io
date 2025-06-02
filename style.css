@@ -78,32 +78,6 @@
     border-radius: 5px;
   }
 
-  /* === Main Content === */
-  main {
-    padding: 20px;
-  }
-
-  section {
-    margin-bottom: 2rem;
-  }
-
-  /* === Images === */
-  .headshot-image {
-    width: 50%;
-    max-width: 200px;
-    border-radius: 5px;
-    border: 2px solid var(--border-color);
-    margin: 20px;
-  }
-
-  /* === Footer === */
-  footer {
-    background: var(--footer-background);
-    padding: 20px;
-    text-align: center;
-    width: 100%;
-    font-size: 0.9rem;
-  }
 
   /* === Cards === */
   .card-container {
@@ -142,3 +116,31 @@
     font-size: 17px;
     margin-bottom: 20px;
   }
+
+
+/* === Main Content === */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+/* === Images === */
+.headshot-image {
+    width: 50%;
+    max-width: 200px;
+    border-radius: 5px;
+    border: 2px solid var(--border-color);
+    margin: 20px;
+}
+
+/* === Footer === */
+footer {
+    background: var(--footer-background);
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    font-size: 0.9rem;
+}
