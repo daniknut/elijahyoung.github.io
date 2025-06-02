@@ -78,6 +78,7 @@ section {
     width: 50%;
     border-radius: 5px;
     border-color: black;
+    max-width: 200px;
 }
 
 footer {
