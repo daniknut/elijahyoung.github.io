@@ -4,6 +4,11 @@
     box-sizing: border-box;
     color: white;
     font-family: 'Roboto', sans-serif;
+
+    display: flex;
+    flex-direction: column; /* or row, depending on layout */
+    justify-content: center; /* vertical centering */
+    align-items: center;
 }
 
 .roboto-one{
@@ -22,12 +27,12 @@ body {
     justify-content: center; /* vertical centering */
     align-items: center;     /* horizontal centering */
     min-height: 100vh;       /* fill full height */
-    margin: 0;
+    margin: 10px;
 }
 
 
 header {
-    background: #333;
+    background: #000000;
     color: white;
     padding: 1rem;
     text-align: center;
