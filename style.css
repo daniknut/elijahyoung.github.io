@@ -43,7 +43,7 @@ header {
     background-color: #ffffff;
     color: black;
     padding: 0.5rem;
-    margin-top: 20px;
+    margin: 20px;
 }
 
 .navbar ul {
@@ -59,6 +59,7 @@ header {
     color: #000000;
     text-decoration: none;
     font-weight: bold;
+    font-size: medium;
     padding: 0.5rem 1rem;
     transition: background 0.3s;
 }
@@ -83,7 +84,7 @@ section {
     width: 50%;
     border-radius: 5px;
     border-color: black;
-    max-width: 150px;
+    max-width: 200px;
 }
 
 footer {
