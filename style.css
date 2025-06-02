@@ -1,8 +1,8 @@
 /* === Define color variables for theme === */
 :root {
     --text-color: white;
-    --background-gradient-top: rgb(99, 142, 250);
-    --background-gradient-bottom: rgb(30, 43, 161);
+    --background-gradient-top: rgb(47, 87, 188);
+    --background-gradient-bottom: rgb(32, 39, 105);
     --header-background: #000000;
     --navbar-background: #ffffff;
     --navbar-text: #000000;
